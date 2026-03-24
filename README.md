@@ -72,5 +72,3 @@ Bankruptcy prediction is important in financial risk management. The goal is to 
 - Matplotlib, Seaborn  
 
 ---
-
-## 📂 Project Structure
